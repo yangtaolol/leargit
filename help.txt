@@ -1,0 +1,9 @@
+SELECT
+	u.id,
+	u.name,
+	u.age
+FROM	
+	user as u
+
+WHERE
+	id>3;
